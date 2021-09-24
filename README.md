@@ -1,7 +1,7 @@
 # LambdaSchool
 
 
-## Back-end  &#x1F534; &#x1F534;
+&#x1F534;  __Back-end__  &#x1F534;
 
    [![NPM Version](https://img.shields.io/npm/v/npm.svg?style=flat)]()
    [![Generic badge](https://img.shields.io/badge/HTML-v5-red.svg)](https://shields.io/)
@@ -102,8 +102,73 @@
     
     
 
-  ## Front-end &#x1F534; &#x1F534;
+  &#x1F534; __Front-end__ &#x1F534;
 
 
    [![Generic badge](https://img.shields.io/badge/JavaScript-ES7-yellow.svg)](https://shields.io/)
    [![Generic badge](https://img.shields.io/badge/Node.js-v12.15.0-forestgreen.svg)](https://shields.io/)
+   
+   
+  ### Building Restful APIs  &#x1F53A;
+
+  #### notions  &#x1F4D7;
+
+  * Node.js
+  * CRUD Web API 
+  * Test Web API
+
+   #### projects   &#x1F4D9;
+   
+   * [Node API 1 Project Starter Code](https://github.com/RaphaelHebert/web-45-node-api1-project-RaphaelHebert): *writing REST API endpoints to perform CRUD operations*
+   
+   * [Server Side Routing Module Project](https://github.com/RaphaelHebert/web-45-node-api2-project-RaphaelHebert): *using [Express module](https://www.npmjs.com/package/express) to build REST API*
+   
+   * [Express Middleware Module Project](https://github.com/RaphaelHebert/web-45-node-api3-project-RaphaelHebert): wrtie and use middlwares: custom middleware and error handling middleware*
+
+   * [Deployment and Best Practices](https://github.com/RaphaelHebert/node-api4-project): * create .gitignore and package.json files setup eslint, use [dotenv](https://www.npmjs.com/search?q=dotenv) to setup and manage .env file, use [cors](https://www.npmjs.com/search?q=cors) middlware, deploy to [Heroku](https://dashboard.heroku.com/)*
+   
+   * [Building Restfull APIs summary project](https://github.com/RaphaelHebert/web-45-web-sprint-challenge-build-a-web-api-RaphaelHebert)
+   
+   
+  ### Adding Data Persistancy  &#x1F53A;
+
+  #### notions  &#x1F4D7;
+
+  * Relationnal databases
+  * Database schema design
+  * Milti-tables queries
+  * Data modeling
+
+ #### projects   &#x1F4D9;
+
+   * [Node DB1 Project Starter Code](https://github.com/RaphaelHebert/web-45-node-db1-project-RaphaelHebert): *make SQL queries with [knex](https://knexjs.org/)*
+
+   * [Node DB2 Project Starter Code](https://github.com/RaphaelHebert/node-db2-project): *write migration files and customs middlewares*
+
+   * [Node DB3 Project Starter Code](https://github.com/RaphaelHebert/node-db3-project): *multi-table queries, middlewares and CRUD operations*
+
+   * [Node DB4 Module Project](https://github.com/RaphaelHebert/node-db4-project)
+
+   * [Adding Data Persistancy summary project](https://github.com/RaphaelHebert/web-sprint-challenge-adding-data-persistence)
+   
+
+ ### Authentication and Testing  &#x1F53A;
+
+  #### notions  &#x1F4D7;
+
+  * Authentication with session 
+  * Authentication with JWT
+  * Integration testing
+  * Unit testing
+
+ #### projects   &#x1F4D9;
+ 
+   * [Introduction to Authentication Module Project](https://github.com/RaphaelHebert/node-auth1-project): *use knex.js Express and Node.js to build a Web API with login logout and register routes. Authorization with session*
+   
+   * [Using JSON Web Tokens](https://github.com/RaphaelHebert/node-auth2-project): *managing authorization with [jsonwebtoken](https://www.npmjs.com/package/jsonwebtoken), [JWT](https://jwt.io/)*
+   
+   * [Unit Testing](https://github.com/RaphaelHebert/node-testing1-project)
+
+   * [Server Testing Module Project](https://github.com/RaphaelHebert/node-testing2-project): use Jest and [supertest](https://www.npmjs.com/package/supertest) to test endpoints*
+   
+   * [Authentication and Testing summary project](https://github.com/RaphaelHebert/web-sprint-challenge-authentication-and-testing)
