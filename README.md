@@ -5,9 +5,11 @@
    [![Generic badge](https://img.shields.io/badge/HTML-v5-red.svg)](https://shields.io/)
    [![Generic badge](https://img.shields.io/badge/CSS-v2.1-green.svg)](https://shields.io/)
    [![Generic badge](https://img.shields.io/badge/JavaScript-ES7-yellow.svg)](https://shields.io/)
-   [![Generic badge](https://img.shields.io/badge/React-16.13.0-lightblue.svg)](https://shields.io/)
+   [![Generic badge](https://img.shields.io/badge/React-v16.13.0-lightblue.svg)](https://shields.io/)
 
   
   
   
   ## Front-end
+   [![Generic badge](https://img.shields.io/badge/JavaScript-ES7-yellow.svg)](https://shields.io/)
+   [![Generic badge](https://img.shields.io/badge/Node.js-v12.15.0-green.svg)](https://shields.io/)
