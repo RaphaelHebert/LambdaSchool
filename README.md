@@ -1,9 +1,7 @@
 # LambdaSchool
 
 
- &#x1F534;  
- ## Back-end  
- &#x1F534;
+&#x1F534; __Back-end  &#x1F534;
 
    [![NPM Version](https://img.shields.io/npm/v/npm.svg?style=flat)]()
    [![Generic badge](https://img.shields.io/badge/HTML-v5-red.svg)](https://shields.io/)
