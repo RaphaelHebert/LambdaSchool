@@ -1,7 +1,7 @@
 # LambdaSchool
 
 
-&#x1F534; __Back-end  &#x1F534;
+## Back-end  &#x1F534; &#x1F534;
 
    [![NPM Version](https://img.shields.io/npm/v/npm.svg?style=flat)]()
    [![Generic badge](https://img.shields.io/badge/HTML-v5-red.svg)](https://shields.io/)
@@ -9,8 +9,8 @@
    [![Generic badge](https://img.shields.io/badge/JavaScript-ES7-yellow.svg)](https://shields.io/)
    [![Generic badge](https://img.shields.io/badge/React-v16.13.0-lightblue.svg)](https://shields.io/)
 
-  &#x1F53A;
-  ### Single Page Applications
+
+  ### Single Page Applications   &#x1F53A;
 
   #### notions
 
@@ -31,8 +31,8 @@
    * [Single Page Application summary project](https://github.com/Raphael-Lambda/web-sprint-challenge-single-page-applications)
 
 
-  &#x1F53A;
-  ### Advanced React
+  ### Advanced React   &#x1F53A;
+
 
   #### notions
 
@@ -53,8 +53,8 @@
   * [Advanced React summary project](https://github.com/Raphael-Lambda/web-sprint-challenge-advanced-react)
 
 
-  &#x1F53A;
-  ### Advanced state management
+  ### Advanced state management  &#x1F53A;
+
 
   #### notions
     
@@ -76,8 +76,8 @@
   * [Advanced State Management summary project](https://github.com/Raphael-Lambda/web-sprint-challenge-advanced-state-management)
 
   
-  &#x1F53A;
-  ### Advanced Web Application
+ 
+  ### Advanced Web Application  &#x1F53A;
 
   #### notions 
 
@@ -101,10 +101,8 @@
     
     
     
-    
-  &#x1F534; 
-  ## Front-end 
-  &#x1F534;
+
+  ## Front-end &#x1F534; &#x1F534;
 
 
    [![Generic badge](https://img.shields.io/badge/JavaScript-ES7-yellow.svg)](https://shields.io/)
