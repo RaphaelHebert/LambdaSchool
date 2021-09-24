@@ -1,6 +1,8 @@
 # LambdaSchool
 
-  ## Back-end <span style="color:blue">Back-end</span>
+<span style="color:blue">Back-end</span>
+
+  ## Back-end 
    [![NPM Version](https://img.shields.io/npm/v/npm.svg?style=flat)]()
    [![Generic badge](https://img.shields.io/badge/HTML-v5-red.svg)](https://shields.io/)
    [![Generic badge](https://img.shields.io/badge/CSS-v2.1-green.svg)](https://shields.io/)
