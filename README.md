@@ -12,13 +12,13 @@
 
   ### Single Page Applications   &#x1F53A;
 
-  #### notions
+  #### notions  &#x1F4D7;
 
   * REACT Router
   * Form management
   * Integration testing
 
-  #### projects
+  #### projects   &#x1F4D9
    
    * [React-Router-Movies](https://github.com/Raphael-Lambda/React-Router-Movies): *Handling client-side routing with REACT-Router*
    
@@ -34,13 +34,13 @@
   ### Advanced React   &#x1F53A;
 
 
-  #### notions
+  #### notions &#x1F4D7;
 
   * Class Components
   * The React Lifecycle
   * Unit testing
 
-  #### projects
+  #### projects   &#x1F4D9
 
   * [Class-components](https://github.com/Raphael-Lambda/web-module-project-class-components)
 
@@ -56,14 +56,14 @@
   ### Advanced state management  &#x1F53A;
 
 
-  #### notions
+  #### notions &#x1F4D7;
     
   * Reducers 
   * Redux 
   * Redux-Thunk (to consume promises with Redux)
   * Context API
 
-  #### projects
+  #### projects   &#x1F4D9
 
   * [The Reducer Pattern](https://github.com/Raphael-Lambda/web-module-project-reducer): *use the useReducer hook*
 
@@ -79,14 +79,14 @@
  
   ### Advanced Web Application  &#x1F53A;
 
-  #### notions 
+  #### notions  &#x1F4D7;
 
   * testing
   * Client-side Authentication
   * HTTP/AJAX II
   * Deploying Web Apps
 
-  #### projects
+  #### projects   &#x1F4D9
     
   * [UNit Testing React module project](https://github.com/Raphael-Lambda/web-module-project-testing-react): *mock props and external module, rerendermethod*
 
