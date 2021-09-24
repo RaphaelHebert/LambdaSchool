@@ -1,6 +1,6 @@
 # LambdaSchool
 
-![#f03c15](https://placehold.it/150/ffffff/ff0000?text=hello)
+![#ffffff](https://placehold.it/150/ffffff/ff0000?text=hello)
 
 
   ## Back-end 
