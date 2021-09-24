@@ -1,7 +1,6 @@
 # LambdaSchool
 
-![#ffffff](https://placehold.it/150/ffffff/ff0000?text=hello)
-
+&#x1F534;
 
   ## Back-end 
    [![NPM Version](https://img.shields.io/npm/v/npm.svg?style=flat)]()
