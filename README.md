@@ -17,17 +17,13 @@
 
   #### projects
    
-   * [React-Router-Movies](https://github.com/Raphael-Lambda/React-Router-Movies)  
-      * *Handling client-side routing with REACT-Router*
+   * [React-Router-Movies](https://github.com/Raphael-Lambda/React-Router-Movies): *Handling client-side routing with REACT-Router*
    
-   * [team-builder](https://github.com/Raphael-Lambda/team-builder)
-     * *Handling client-side routing and form managment with REACT-Router, useState hook*
+   * [team-builder](https://github.com/Raphael-Lambda/team-builder): *Handling client-side routing and form managment with REACT-Router, useState hook*
   
-   * [user-onboarding](https://github.com/Raphael-Lambda/User-Onboarding)
-     * *form validation with [yup](https://github.com/jquense/yup) and API call with [axios](https://github.com/axios/axios)
+   * [user-onboarding](https://github.com/Raphael-Lambda/User-Onboarding): *form validation with [yup](https://github.com/jquense/yup) and API call with [axios](https://github.com/axios/axios)
    
-   * [Cypress-testing](https://github.com/Raphael-Lambda/Cypress-Testing)
-     * *integration test with [cypress.io](cypress.io)
+   * [Cypress-testing](https://github.com/Raphael-Lambda/Cypress-Testing): *integration test with [cypress.io](cypress.io)
 
    * [Single Page Application summary project](https://github.com/Raphael-Lambda/web-sprint-challenge-single-page-applications)
 
@@ -47,11 +43,9 @@
 
   * [Components life cycle methods](https://github.com/Raphael-Lambda/web-module-project-lifecycle)
 
-  * [Custom Hooks](https://github.com/Raphael-Lambda/web-module-project-custom-hook)
-    * *useLocalStorage to use the local storage*
+  * [Custom Hooks](https://github.com/Raphael-Lambda/web-module-project-custom-hook): *useLocalStorage to use the local storage*
 
-  * [Testing React](https://github.com/Raphael-Lambda/web-module-project-testing-react)
-    * *unit tests with [Jest}(https://jestjs.io/docs/getting-started) and [react-testing-library](https://testing-library.com/docs/react-testing-library/intro/)
+  * [Testing React](https://github.com/Raphael-Lambda/web-module-project-testing-react): *unit tests with [Jest](https://jestjs.io/docs/getting-started) and [react-testing-library](https://testing-library.com/docs/react-testing-library/intro/)
 
   * [Advanced React summary project](https://github.com/Raphael-Lambda/web-sprint-challenge-advanced-react)
 
@@ -67,17 +61,13 @@
 
   #### projects
 
-  * [The Reducer Pattern](https://github.com/Raphael-Lambda/web-module-project-reducer)
-    * *use the useReducer hook*
+  * [The Reducer Pattern](https://github.com/Raphael-Lambda/web-module-project-reducer): *use the useReducer hook*
 
-  * [Redux](https://github.com/Raphael-Lambda/web-module-project-redux)
-    * *write reducers and combine them, connect Redux*
+  * [Redux](https://github.com/Raphael-Lambda/web-module-project-redux): *write reducers and combine them, connect Redux*
 
-  * [Async Redux](https://github.com/Raphael-Lambda/web-module-project-async-redux)
-    * *use Redux-Thunk as a middleware to consume promises*
+  * [Async Redux](https://github.com/Raphael-Lambda/web-module-project-async-redux): *use Redux-Thunk as a middleware to consume promises*
 
-  * [React Shopping cart](https://github.com/Raphael-Lambda/web-module-project-context)
-    * *use the useContext hook*
+  * [React Shopping cart](https://github.com/Raphael-Lambda/web-module-project-context): *use the useContext hook*
 
   * [Advanced State Management summary project](https://github.com/Raphael-Lambda/web-sprint-challenge-advanced-state-management)
 
@@ -93,17 +83,13 @@
 
   #### projects
     
-  * [UNit Testing React module project](https://github.com/Raphael-Lambda/web-module-project-testing-react)
-    * *mock props and external module, rerendermethod*
+  * [UNit Testing React module project](https://github.com/Raphael-Lambda/web-module-project-testing-react): *mock props and external module, rerendermethod*
 
-  * [Auth Friends](https://github.com/Raphael-Lambda/web-module-project-client-auth)
-    * *React-Route, axios, Protected routes, Authentication token, promises*
+  * [Auth Friends](https://github.com/Raphael-Lambda/web-module-project-client-auth): *React-Route, axios, Protected routes, Authentication token, promises*
 
-  * [HTTP Movies](https://github.com/Raphael-Lambda/web-module-project-HTTP)
-    * *HTTP methods, REST interfaces, CRUD apps, URL params*
+  * [HTTP Movies](https://github.com/Raphael-Lambda/web-module-project-HTTP): *HTTP methods, REST interfaces, CRUD apps, URL params*
 
-  * [Deploying React Apps](https://github.com/Raphael-Lambda/create-react-app)
-    * *creating a react app using [create-react-app](https://create-react-app.dev/) and deploy it with [Vercel](https://vercel.com/new)*
+  * [Deploying React Apps](https://github.com/Raphael-Lambda/create-react-app): *creating a react app using [create-react-app](https://create-react-app.dev/) and deploy it with [Vercel](https://vercel.com/new)*
 
   * [Advances Web Application summary project](https://github.com/Raphael-Lambda/web-sprint-challenge-advanced-web-applications)
 
