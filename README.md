@@ -18,7 +18,7 @@
   * Form management
   * Integration testing
 
-  #### projects   &#x1F4D9
+  #### projects   &#x1F4D9;
    
    * [React-Router-Movies](https://github.com/Raphael-Lambda/React-Router-Movies): *Handling client-side routing with REACT-Router*
    
@@ -40,7 +40,7 @@
   * The React Lifecycle
   * Unit testing
 
-  #### projects   &#x1F4D9
+  #### projects   &#x1F4D9;
 
   * [Class-components](https://github.com/Raphael-Lambda/web-module-project-class-components)
 
@@ -63,7 +63,7 @@
   * Redux-Thunk (to consume promises with Redux)
   * Context API
 
-  #### projects   &#x1F4D9
+  #### projects   &#x1F4D9;
 
   * [The Reducer Pattern](https://github.com/Raphael-Lambda/web-module-project-reducer): *use the useReducer hook*
 
@@ -86,7 +86,7 @@
   * HTTP/AJAX II
   * Deploying Web Apps
 
-  #### projects   &#x1F4D9
+  #### projects   &#x1F4D9;
     
   * [UNit Testing React module project](https://github.com/Raphael-Lambda/web-module-project-testing-react): *mock props and external module, rerendermethod*
 
