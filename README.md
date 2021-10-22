@@ -24,9 +24,9 @@
    
    * [team-builder](https://github.com/Raphael-Lambda/team-builder): *handling client-side routing and form managment with REACT-Router, useState hook*
   
-   * [user-onboarding](https://github.com/Raphael-Lambda/User-Onboarding): *form validation with [yup](https://github.com/jquense/yup) and API call with [axios](https://github.com/axios/axios)
+   * [user-onboarding](https://github.com/Raphael-Lambda/User-Onboarding): *form validation with [yup](https://github.com/jquense/yup) and API call with [axios](https://github.com/axios/axios)*
    
-   * [Cypress-testing](https://github.com/Raphael-Lambda/Cypress-Testing): *integration test with [cypress.io](cypress.io)
+   * [Cypress-testing](https://github.com/Raphael-Lambda/Cypress-Testing): *integration test with [cypress.io](cypress.io)*
 
    * [Single Page Application summary project](https://github.com/Raphael-Lambda/web-sprint-challenge-single-page-applications)
 
