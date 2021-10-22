@@ -1,7 +1,7 @@
 # LambdaSchool
 
 
-&#x1F534;  __Back-end__  &#x1F534;
+&#x1F534;  __Front-end__  &#x1F534;
 
    [![NPM Version](https://img.shields.io/npm/v/npm.svg?style=flat)]()
    [![Generic badge](https://img.shields.io/badge/HTML-v5-red.svg)](https://shields.io/)
@@ -20,9 +20,9 @@
 
   #### projects   &#x1F4D9;
    
-   * [React-Router-Movies](https://github.com/Raphael-Lambda/React-Router-Movies): *Handling client-side routing with REACT-Router*
+   * [React-Router-Movies](https://github.com/Raphael-Lambda/React-Router-Movies): *handling client-side routing with REACT-Router*
    
-   * [team-builder](https://github.com/Raphael-Lambda/team-builder): *Handling client-side routing and form managment with REACT-Router, useState hook*
+   * [team-builder](https://github.com/Raphael-Lambda/team-builder): *handling client-side routing and form managment with REACT-Router, useState hook*
   
    * [user-onboarding](https://github.com/Raphael-Lambda/User-Onboarding): *form validation with [yup](https://github.com/jquense/yup) and API call with [axios](https://github.com/axios/axios)
    
@@ -102,7 +102,7 @@
     
     
 
-  &#x1F534; __Front-end__ &#x1F534;
+  &#x1F534; __Back-end__ &#x1F534;
 
 
    [![Generic badge](https://img.shields.io/badge/JavaScript-ES7-yellow.svg)](https://shields.io/)
