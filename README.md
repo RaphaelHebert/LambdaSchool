@@ -88,7 +88,7 @@
 
   #### projects   &#x1F4D9;
     
-  * [UNit Testing React module project](https://github.com/Raphael-Lambda/web-module-project-testing-react): *mock props and external module, rerendermethod*
+  * [Unit Testing React module project](https://github.com/Raphael-Lambda/web-module-project-testing-react): *mock props and external module, rerendermethod*
 
   * [Auth Friends](https://github.com/Raphael-Lambda/web-module-project-client-auth): *React-Route, axios, Protected routes, Authentication token, promises*
 
